@@ -21,6 +21,6 @@ public class App
     	System.out.println(o.getGpuSpeed());
     	System.out.println(o.getBrandInformation().toString());
     	o.gift();
-    	o.updateMoney();
+    	//o.updateMoney();
     }
 }
